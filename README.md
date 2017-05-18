@@ -9,4 +9,4 @@
 
 
 
-![alt text](https://github.com/makkhay/TextToSpeech_Temperature_Converter/blob/master/Screen%20Shot%202017-05-18%20at%202.49.38%20PM.png)
+![alt text](https://github.com/makkhay/Paint/blob/master/Screen%20Shot%202017-05-18%20at%203.01.36%20PM.png)
